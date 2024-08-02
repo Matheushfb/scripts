@@ -7,7 +7,7 @@ while [ $j -lt 3 ]
 do
     for i in $commando
     do
-        #${keys[$j]}=$i 
+        ${keys[$j]}=$i 
         j=$[$j+1]
     done
 done
