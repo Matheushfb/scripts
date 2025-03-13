@@ -1,7 +1,7 @@
 #!/bin/bash
 
 API_KEY="XYZ"
-policyID=("0000000" "0000000")
+policyID=("00000000" "0000000")
 
 for i in ${policyID[@]}
 
