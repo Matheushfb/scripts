@@ -1,7 +1,7 @@
 #!/bin/bash
 
-API_KEY="NRAK-9MSB8KFMACRL03880GO15DMVBVC"
-policyID=("5706072" "5751316") 
+API_KEY="XYZ"
+policyID=("0000000" "0000000") 
 
 
 declare -A policyNames
